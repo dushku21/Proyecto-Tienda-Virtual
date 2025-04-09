@@ -41,8 +41,21 @@ bin/
 .idea/
 out/
 
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+*.bak
+
 # VS Code
 .vscode/
+
+# SQL Server (SSMS) y Base de datos
+*.mdf
+*.ldf
+*.bak
+*.sql
 
 # MacOS
 .DS_Store
