@@ -8,12 +8,16 @@ Este es un proyecto de una tienda virtual donde los usuarios pueden comprar prod
 - **SQL**: Sistema de gestión de bases de datos relacional.
 - **Maven** (opcional): Para gestionar dependencias y ejecutar tareas de construcción del proyecto.
 - **Spring Boot** (opcional): Framework que puede usarse para simplificar la creación de aplicaciones Java.
+- **NetBeans**: Entorno de desarrollo integrado (IDE) utilizado para desarrollar el proyecto.
+- **SQL Server**: Sistema de gestión de bases de datos utilizado.
+- **SQL Server Management Studio (SSMS)**: Herramienta de administración utilizada para gestionar bases de datos SQL Server.
 
 ## Instalación:
+## Instalación:
 Dependencias
-- NetBeans
-- SQL Server
-- SSMS
+- **NetBeans**: Necesario para desarrollar y ejecutar el proyecto.
+- **SQL Server**: Necesario para gestionar la base de datos.
+- **SQL Server Management Studio (SSMS)**: Para gestionar y administrar las bases de datos en SQL Server.
   
 1. Clona el repositorio:
    ```bash
