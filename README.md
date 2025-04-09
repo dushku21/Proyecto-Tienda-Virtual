@@ -10,7 +10,11 @@ Este es un proyecto de una tienda virtual donde los usuarios pueden comprar prod
 - **Spring Boot** (opcional): Framework que puede usarse para simplificar la creación de aplicaciones Java.
 
 ## Instalación:
-
+Dependencias
+- NetBeans
+- SQL Server
+- SSMS
+  
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tu_usuario/Proyecto-Tienda-Virtual.git
