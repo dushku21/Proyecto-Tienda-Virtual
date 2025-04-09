@@ -27,7 +27,7 @@ Dependencias
 
 ### **Puntos clave:**
 1. **Tecnologías utilizadas**: Añadir detalles más claros sobre lo que hacen las tecnologías mencionadas (Java, SQL, Maven, Spring Boot, etc.).
-2. **Instalación**: Dejar las instrucciones para configurar Maven, pero sin forzar su uso si no es necesario en dado caso de usarlo así como otras herramientas. El **Maven Wrapper** es una excelente opción si no queremos que todos tengan que instalar Maven (tentativo?).
+2. **Instalación**: Dejar las instrucciones para configurar Maven u otras herramientas que se consideren necesarias, pero sin forzar su uso si no es necesario. El **Maven Wrapper** es una excelente opción si no queremos que todos tengan que instalar Maven (tentativo?/propuesta).
 3. **Uso**: Incluir instrucciones más específicas sobre cómo ejecutar el proyecto y acceder a la tienda en localhost.
 4. **Contribuciones**: Es importante detallar cómo otros pueden contribuir fácilmente para hacer que el proyecto crezca.
 
